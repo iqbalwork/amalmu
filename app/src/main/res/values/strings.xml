@@ -1,0 +1,5 @@
+<resources>
+    <string name="title_activity_splash">SplashActivity</string>
+
+    <string name="label_aktifkan_lokasi">Aktifkan Lokasi</string>
+</resources>

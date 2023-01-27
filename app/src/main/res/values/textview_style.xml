@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TextViewBaseStyle" parent="Widget.AppCompat.TextView">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextViewRobotoRegular12" parent="TextViewBaseStyle">
+        <item name="android:textSize">@dimen/font12</item>
+        <item name="android:textColor">@color/grey_900</item>
+    </style>
+
+    <style name="TextViewRobotoRegular14" parent="TextViewBaseStyle">
+        <item name="android:textSize">@dimen/font14</item>
+        <item name="android:textColor">@color/grey_900</item>
+    </style>
+
+<!--    <style name="InputLocationStyle" parent="TextViewRobotoRegular14">-->
+<!--        <item name="android:textSize">@dimen/font14</item>-->
+<!--        <item name="android:textColor">@color/grey_900</item>-->
+<!--        <item name="android:background">@drawable/bg_textview_location</item>-->
+<!--        <item name="android:padding">@dimen/dimen12</item>-->
+<!--        <item name="android:gravity">center_vertical</item>-->
+<!--        <item name="android:maxLines">1</item>-->
+<!--        <item name="android:ellipsize">end</item>-->
+<!--        <item name="drawableEndCompat">@drawable/ic_arrow_down</item>-->
+<!--    </style>-->
+
+    <style name="TextViewRobotoItalic12">
+        <item name="android:fontFamily">@font/roboto_italic</item>
+        <item name="android:textSize">@dimen/font12</item>
+        <item name="android:textColor">@color/grey_900</item>
+    </style>
+
+<!--    <style name="TextViewRobotoItalic14" parent="TextViewRobotoItalic12">-->
+<!--        <item name="android:textSize">@dimen/font14</item>-->
+<!--        <item name="android:textColor">@color/lime_900</item>-->
+<!--    </style>-->
+
+    <style name="TextViewRobotoMedium12">
+        <item name="android:fontFamily">@font/roboto_medium</item>
+        <item name="android:textSize">@dimen/font12</item>
+        <item name="android:textColor">@color/grey_900</item>
+    </style>
+
+    <style name="TextViewRobotoMedium14" parent="TextViewRobotoMedium12">
+        <item name="android:textSize">@dimen/font14</item>
+    </style>
+
+    <style name="TextViewRobotoMedium16" parent="TextViewRobotoMedium12">
+        <item name="android:textSize">@dimen/font16</item>
+    </style>
+
+    <style name="TextViewRobotoBold12" parent="TextViewBaseStyle">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textSize">@dimen/font12</item>
+        <item name="android:textColor">@color/grey_900</item>
+    </style>
+
+    <style name="TextViewRobotoBold14" parent="TextViewRobotoBold12">
+        <item name="android:textSize">@dimen/font14</item>
+    </style>
+
+    <style name="TextViewRobotoBold16" parent="TextViewRobotoBold12">
+        <item name="android:textSize">@dimen/font16</item>
+    </style>
+
+    <style name="TextViewRobotoBold18" parent="TextViewRobotoBold12">
+        <item name="android:textSize">@dimen/font18</item>
+    </style>
+    <style name="TextViewRobotoBold24" parent="TextViewRobotoBold12">
+        <item name="android:textSize">@dimen/font24</item>
+    </style>
+
+</resources>

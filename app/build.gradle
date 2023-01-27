@@ -1,0 +1,117 @@
+plugins {
+    id("com.android.application")
+    id("org.jetbrains.kotlin.android")
+    id("kotlin-kapt")
+    id("dagger.hilt.android.plugin")
+}
+
+android {
+    compileSdk 33
+
+    defaultConfig {
+        applicationId("id.amalmu.app")
+        minSdk 21
+        targetSdk 33
+        versionCode 1
+        versionName("1.0")
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        vectorDrawables {
+            useSupportLibrary true
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            resValue("string", "app_name", "AmalMu: Amaliyah Murid")
+            proguardFiles getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro"
+        }
+        debug {
+            applicationIdSuffix ".dev"
+            debuggable true
+            minifyEnabled false
+            resValue("string", "app_name", "AmalMu")
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = "1.8"
+    }
+    buildFeatures {
+//        compose true
+        viewBinding true
+    }
+//    composeOptions {
+//        kotlinCompilerExtensionVersion compose_version
+//    }
+    packagingOptions {
+        resources {
+            excludes += '/META-INF/{AL2.0,LGPL2.1}'
+        }
+    }
+    namespace 'id.amalmu.app'
+}
+
+dependencies {
+
+    api("androidx.core:core-ktx:1.9.0")
+    api("androidx.appcompat:appcompat:1.5.1")
+    api("com.google.android.material:material:1.7.0")
+    api("androidx.constraintlayout:constraintlayout:2.1.4")
+
+    /* Compose Library */
+//    api("androidx.compose.ui:ui:$compose_version")
+//    api("androidx.compose.material:material:$compose_version")
+//    api("androidx.compose.ui:ui-tooling-preview:$compose_version")
+//    api("androidx.activity:activity-compose:1.5.0")
+//    androidTestImplementation("androidx.compose.ui:ui-test-junit4:$compose_version")
+//    debugImplementation("androidx.compose.ui:ui-tooling:$compose_version")
+//    debugImplementation("androidx.compose.ui:ui-test-manifest:$compose_version")
+
+    // Kotlin
+    def nav_version = "2.5.3"
+    api "androidx.navigation:navigation-fragment-ktx:$nav_version"
+    api "androidx.navigation:navigation-ui-ktx:$nav_version"
+
+    // Feature module Support
+    api "androidx.navigation:navigation-dynamic-features-fragment:$nav_version"
+
+    // Testing Navigation
+    androidTestImplementation "androidx.navigation:navigation-testing:$nav_version"
+
+    // Jetpack Compose Integration
+//    api "androidx.navigation:navigation-compose:$nav_version"
+
+    /* ViewModel & Live Data */
+    def lifecycle_version = "2.5.1"
+    api("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_version")
+    api("androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version")
+    api("androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version")
+
+    /* Hilt */
+    def hilt_version = "2.42"
+    api("com.google.dagger:hilt-android:$hilt_version")
+    kapt("com.google.dagger:hilt-compiler:$hilt_version")
+
+    /* Networking */
+    def retrofit = '2.9.0' // retrofit
+    def okhttp = '4.9.3'
+    api("com.squareup.retrofit2:retrofit:$retrofit")
+    api("com.squareup.retrofit2:converter-gson:$retrofit")
+    api("com.squareup.okhttp3:logging-interceptor:$okhttp")
+    api("com.squareup.okhttp3:okhttp:$okhttp")
+
+    /* Logger*/
+    def timber = '5.0.1'
+    def pretty_logger = '2.2.0'
+    api("com.jakewharton.timber:timber:$timber")
+    api("com.orhanobut:logger:$pretty_logger")
+
+    testImplementation("junit:junit:4.13.2")
+    androidTestImplementation("androidx.test.ext:junit:1.1.4")
+    androidTestImplementation("androidx.test.espresso:espresso-core:3.5.0")
+}

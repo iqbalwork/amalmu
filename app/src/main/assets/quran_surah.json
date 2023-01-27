@@ -1,0 +1,1028 @@
+[
+    {
+        "arabic": "الفاتحة",
+        "id": 1,
+        "latin": "Al-Fātiḥah",
+        "latin_indo": "Al-Fatiḥah",
+        "location": "Makkiyah",
+        "num_ayah": 7,
+        "translation": "Pembuka"
+    },
+    {
+        "arabic": "البقرة",
+        "id": 2,
+        "latin": "Al-Baqarah",
+        "latin_indo": "Al-Baqarah",
+        "location": "Madaniyah",
+        "num_ayah": 286,
+        "translation": "Sapi"
+    },
+    {
+        "arabic": "اٰل عمرٰن",
+        "id": 3,
+        "latin": "Āli ‘Imrān",
+        "latin_indo": "Ali ‘Imran",
+        "location": "Madaniyah",
+        "num_ayah": 200,
+        "translation": "Keluarga Imran"
+    },
+    {
+        "arabic": "النّساۤء",
+        "id": 4,
+        "latin": "An-Nisā'",
+        "latin_indo": "An-Nisa'",
+        "location": "Madaniyah",
+        "num_ayah": 176,
+        "translation": "Perempuan"
+    },
+    {
+        "arabic": "الماۤئدة",
+        "id": 5,
+        "latin": "Al-Mā'idah",
+        "latin_indo": "Al-Ma'idah",
+        "location": "Madaniyah",
+        "num_ayah": 120,
+        "translation": "Hidangan"
+    },
+    {
+        "arabic": "الانعام",
+        "id": 6,
+        "latin": "Al-An‘ām",
+        "latin_indo": "Al-An‘am",
+        "location": "Makkiyah",
+        "num_ayah": 165,
+        "translation": "Binatang Ternak"
+    },
+    {
+        "arabic": "الاعراف",
+        "id": 7,
+        "latin": "Al-A‘rāf",
+        "latin_indo": "Al-A‘raf",
+        "location": "Makkiyah",
+        "num_ayah": 206,
+        "translation": "Tempat Tertinggi"
+    },
+    {
+        "arabic": "الانفال",
+        "id": 8,
+        "latin": "Al-Anfāl",
+        "latin_indo": "Al-Anfal",
+        "location": "Madaniyah",
+        "num_ayah": 75,
+        "translation": "Rampasan Perang"
+    },
+    {
+        "arabic": "التّوبة",
+        "id": 9,
+        "latin": "At-Taubah",
+        "latin_indo": "At-Taubah",
+        "location": "Madaniyah",
+        "num_ayah": 129,
+        "translation": "Pengampunan"
+    },
+    {
+        "arabic": "يونس",
+        "id": 10,
+        "latin": "Yūnus",
+        "latlatin_indoin": "Yunus",
+        "location": "Makkiyah",
+        "num_ayah": 109,
+        "translation": "Yunus"
+    },
+    {
+        "arabic": "هود",
+        "id": 11,
+        "latin": "Hūd",
+        "latin_indo": "Hud",
+        "location": "Makkiyah",
+        "num_ayah": 123,
+        "translation": "Hud"
+    },
+    {
+        "arabic": "يوسف",
+        "id": 12,
+        "latin": "Yūsuf",
+        "latin_indo": "Yusuf",
+        "location": "Makkiyah",
+        "num_ayah": 111,
+        "translation": "Yusuf"
+    },
+    {
+        "arabic": "الرّعد",
+        "id": 13,
+        "latin": "Ar-Ra‘d",
+        "latin_indo": "Ar-Ra‘d",
+        "location": "Makkiyah",
+        "num_ayah": 43,
+        "translation": "Guruh"
+    },
+    {
+        "arabic": "ابرٰهيم",
+        "id": 14,
+        "latin": "Ibrāhīm",
+        "latin_indo": "Ibrahim",
+        "location": "Makkiyah",
+        "num_ayah": 52,
+        "translation": "Ibrahim"
+    },
+    {
+        "arabic": "الحجر",
+        "id": 15,
+        "latin": "Al-Ḥijr",
+        "latin_indo": "Al-Ḥijr",
+        "location": "Makkiyah",
+        "num_ayah": 99,
+        "translation": "Hijr"
+    },
+    {
+        "arabic": "النّحل",
+        "id": 16,
+        "latin": "An-Naḥl",
+        "latin_indo": "An-Naḥl",
+        "location": "Makkiyah",
+        "num_ayah": 128,
+        "translation": "Lebah"
+    },
+    {
+        "arabic": "الاسراۤء",
+        "id": 17,
+        "latin": "Al-Isrā'",
+        "latin_indo": "Al-Isra'",
+        "location": "Makkiyah",
+        "num_ayah": 111,
+        "translation": "Memperjalankan di Malam Hari"
+    },
+    {
+        "arabic": "الكهف",
+        "id": 18,
+        "latin": "Al-Kahf",
+        "latin_indo": "Al-Kahf",
+        "location": "Makkiyah",
+        "num_ayah": 110,
+        "translation": "Gua"
+    },
+    {
+        "arabic": "مريم",
+        "id": 19,
+        "latin": "Maryam",
+        "latin_indo": "Maryam",
+        "location": "Makkiyah",
+        "num_ayah": 98,
+        "translation": "Maryam"
+    },
+    {
+        "arabic": "طٰهٰ",
+        "id": 20,
+        "latin": "Ṭāhā",
+        "latin_indo": "Ṭaha",
+        "location": "Makkiyah",
+        "num_ayah": 135,
+        "translation": "Taha"
+    },
+    {
+        "arabic": "الانبياۤء",
+        "id": 21,
+        "latin": "Al-Anbiyā'",
+        "latin_indo": "Al-Anbiya'",
+        "location": "Makkiyah",
+        "num_ayah": 112,
+        "translation": "Para Nabi"
+    },
+    {
+        "arabic": "الحجّ",
+        "id": 22,
+        "latin": "Al-Ḥajj",
+        "latin_indo": "Al-Ḥajj",
+        "location": "Madaniyah",
+        "num_ayah": 78,
+        "translation": "Haji"
+    },
+    {
+        "arabic": "المؤمنون",
+        "id": 23,
+        "latin": "Al-Mu'minūn",
+        "latin_indo": "Al-Mu'minun",
+        "location": "Makkiyah",
+        "num_ayah": 118,
+        "translation": "Orang-Orang Mukmin"
+    },
+    {
+        "arabic": "النّور",
+        "id": 24,
+        "latin": "An-Nūr",
+        "latin_indo": "An-Nur",
+        "location": "Madaniyah",
+        "num_ayah": 64,
+        "translation": "Cahaya"
+    },
+    {
+        "arabic": "الفرقان",
+        "id": 25,
+        "latin": "Al-Furqān",
+        "latin_indo": "Al-Furqan",
+        "location": "Makkiyah",
+        "num_ayah": 77,
+        "translation": "Pembeda"
+    },
+    {
+        "arabic": "الشّعراۤء",
+        "id": 26,
+        "latin": "Asy-Syu‘arā'",
+        "latin_indo": "Asy-Syu‘ara'",
+        "location": "Makkiyah",
+        "num_ayah": 227,
+        "translation": "Para Penyair"
+    },
+    {
+        "arabic": "النّمل",
+        "id": 27,
+        "latin": "An-Naml",
+        "latin_indo": "An-Naml",
+        "location": "Makkiyah",
+        "num_ayah": 93,
+        "translation": "Semut"
+    },
+    {
+        "arabic": "القصص",
+        "id": 28,
+        "latin": "Al-Qaṣaṣ",
+        "latin_indo": "Al-Qaṣaṣ",
+        "location": "Makkiyah",
+        "num_ayah": 88,
+        "translation": "Kisah-Kisah"
+    },
+    {
+        "arabic": "العنكبوت",
+        "id": 29,
+        "latin": "Al-‘Ankabūt",
+        "latin_indo": "Al-‘Ankabut",
+        "location": "Makkiyah",
+        "num_ayah": 69,
+        "translation": "Laba-Laba"
+    },
+    {
+        "arabic": "الرّوم",
+        "id": 30,
+        "latin": "Ar-Rūm",
+        "latin_indo": "Ar-Rum",
+        "location": "Makkiyah",
+        "num_ayah": 60,
+        "translation": "Romawi"
+    },
+    {
+        "arabic": "لقمٰن",
+        "id": 31,
+        "latin": "Luqmān",
+        "latin_indo": "Luqman",
+        "location": "Makkiyah",
+        "num_ayah": 34,
+        "translation": "Luqman"
+    },
+    {
+        "arabic": "السّجدة",
+        "id": 32,
+        "latin": "As-Sajdah",
+        "latin_indo": "As-Sajdah",
+        "location": "Makkiyah",
+        "num_ayah": 30,
+        "translation": "Sajdah"
+    },
+    {
+        "arabic": "الاحزاب",
+        "id": 33,
+        "latin": "Al-Aḥzāb",
+        "latin_indo": "Al-Aḥzab",
+        "location": "Madaniyah",
+        "num_ayah": 73,
+        "translation": "Golongan Yang Bersekutu"
+    },
+    {
+        "arabic": "سبأ",
+        "id": 34,
+        "latin": "Saba'",
+        "latin_indo": "Saba'",
+        "location": "Makkiyah",
+        "num_ayah": 54,
+        "translation": "Saba'"
+    },
+    {
+        "arabic": "فاطر",
+        "id": 35,
+        "latin": "Fāṭir",
+        "latin_indo": "Faṭir",
+        "location": "Makkiyah",
+        "num_ayah": 45,
+        "translation": "Pencipta"
+    },
+    {
+        "arabic": "يٰسۤ",
+        "id": 36,
+        "latin": "Yāsīn",
+        "latin_indo": "Yasin",
+        "location": "Makkiyah",
+        "num_ayah": 83,
+        "translation": "Yasin"
+    },
+    {
+        "arabic": "الصّٰۤفّٰت",
+        "id": 37,
+        "latin": "Aṣ-Ṣāffāt",
+        "latin_indo": "As-Ṣaffat",
+        "location": "Makkiyah",
+        "num_ayah": 182,
+        "translation": "Barisan-Barisan"
+    },
+    {
+        "arabic": "صۤ",
+        "id": 38,
+        "latin": "Ṣād",
+        "latin_indo": "Sad",
+        "location": "Makkiyah",
+        "num_ayah": 88,
+        "translation": "Ṣād"
+    },
+    {
+        "arabic": "الزّمر",
+        "id": 39,
+        "latin": "Az-Zumar",
+        "latin_indo": "Az-Zumar",
+        "location": "Makkiyah",
+        "num_ayah": 75,
+        "translation": "Rombongan"
+    },
+    {
+        "arabic": "غافر",
+        "id": 40,
+        "latin": "Gāfir",
+        "latin_indo": "Gafir",
+        "location": "Makkiyah",
+        "num_ayah": 85,
+        "translation": "Maha Pengampun"
+    },
+    {
+        "arabic": "فصّلت",
+        "id": 41,
+        "latin": "Fuṣṣilat",
+        "latin_indo": "Fuṣṣilat",
+        "location": "Makkiyah",
+        "num_ayah": 54,
+        "translation": "Dijelaskan"
+    },
+    {
+        "arabic": "الشّورٰى",
+        "id": 42,
+        "latin": "Asy-Syūrā",
+        "latin_indo": "Asy-Syura",
+        "location": "Makkiyah",
+        "num_ayah": 53,
+        "translation": "Musyawarah"
+    },
+    {
+        "arabic": "الزّخرف",
+        "id": 43,
+        "latin": "Az-Zukhruf",
+        "latin_indo": "Az-Zukhruf",
+        "location": "Makkiyah",
+        "num_ayah": 89,
+        "translation": "Perhiasan dari Emas"
+    },
+    {
+        "arabic": "الدّخان",
+        "id": 44,
+        "latin": "Ad-Dukhān",
+        "latin_indo": "Ad-Dukhan",
+        "location": "Makkiyah",
+        "num_ayah": 59,
+        "translation": "Kabut Asap"
+    },
+    {
+        "arabic": "الجاثية",
+        "id": 45,
+        "latin": "Al-Jāṡiyah",
+        "latin_indo": "Al-Jasiyah",
+        "location": "Makkiyah",
+        "num_ayah": 37,
+        "translation": "Berlutut"
+    },
+    {
+        "arabic": "الاحقاف",
+        "id": 46,
+        "latin": "Al-Aḥqāf",
+        "latin_indo": "Al-Aḥqaf",
+        "location": "Makkiyah",
+        "num_ayah": 35,
+        "translation": "Ahqaf"
+    },
+    {
+        "arabic": "محمّد",
+        "id": 47,
+        "latin": "Muḥammad",
+        "latin_indo": "Muḥammad",
+        "location": "Madaniyah",
+        "num_ayah": 38,
+        "translation": "Nabi Muhammad"
+    },
+    {
+        "arabic": "الفتح",
+        "id": 48,
+        "latin": "Al-Fatḥ",
+        "latin_indo": "Al-Fatḥ",
+        "location": "Madaniyah",
+        "num_ayah": 29,
+        "translation": "Kemenangan"
+    },
+    {
+        "arabic": "الحجرٰت",
+        "id": 49,
+        "latin": "Al-Ḥujurāt",
+        "latin_indo": "Al-Ḥujurat",
+        "location": "Madaniyah",
+        "num_ayah": 18,
+        "translation": "Kamar-Kamar"
+    },
+    {
+        "arabic": "قۤ",
+        "id": 50,
+        "latin": "Qāf",
+        "latin_indo": "Qaf",
+        "location": "Makkiyah",
+        "num_ayah": 45,
+        "translation": "Qaf"
+    },
+    {
+        "arabic": "الذّٰريٰت",
+        "id": 51,
+        "latin": "Aż-Żāriyāt",
+        "latin_indo": "Az-Zariyat",
+        "location": "Makkiyah",
+        "num_ayah": 60,
+        "translation": "Yang Menerbangkan"
+    },
+    {
+        "arabic": "الطّور",
+        "id": 52,
+        "latin": "Aṭ-Ṭūr",
+        "latin_indo": "At-Tur",
+        "location": "Makkiyah",
+        "num_ayah": 49,
+        "translation": "Gunung"
+    },
+    {
+        "arabic": "النّجم",
+        "id": 53,
+        "latin": "An-Najm",
+        "latin_indo": "An-Najm",
+        "location": "Makkiyah",
+        "num_ayah": 62,
+        "translation": "Bintang"
+    },
+    {
+        "arabic": "القمر",
+        "id": 54,
+        "latin": "Al-Qamar",
+        "latin_indo": "Al-Qamar",
+        "location": "Makkiyah",
+        "num_ayah": 55,
+        "translation": "Bulan"
+    },
+    {
+        "arabic": "الرّحمٰن",
+        "id": 55,
+        "latin": "Ar-Raḥmān",
+        "latin_indo": "Ar-Raḥman",
+        "location": "Makkiyah",
+        "num_ayah": 78,
+        "translation": "Yang Maha Pengasih"
+    },
+    {
+        "arabic": "الواقعة",
+        "id": 56,
+        "latin": "Al-Wāqi‘ah",
+        "latin_indo": "Al-Waqi‘ah",
+        "location": "Makkiyah",
+        "num_ayah": 96,
+        "translation": "Hari Kiamat Yang Pasti Terjadi"
+    },
+    {
+        "arabic": "الحديد",
+        "id": 57,
+        "latin": "Al-Ḥadīd",
+        "latin_indo": "Al-Ḥadid",
+        "location": "Madaniyah",
+        "num_ayah": 29,
+        "translation": "Besi"
+    },
+    {
+        "arabic": "المجادلة",
+        "id": 58,
+        "latin": "Al-Mujādalah",
+        "latin_indo": "Al-Mujadalah",
+        "location": "Madaniyah",
+        "num_ayah": 22,
+        "translation": "Gugatan"
+    },
+    {
+        "arabic": "الحشر",
+        "id": 59,
+        "latin": "Al-Ḥasyr",
+        "latin_indo": "Al-Ḥasyr",
+        "location": "Madaniyah",
+        "num_ayah": 24,
+        "translation": "Pengusiran"
+    },
+    {
+        "arabic": "الممتحنة",
+        "id": 60,
+        "latin": "Al-Mumtaḥanah",
+        "latin_indo": "Al-Mumtaḥanah",
+        "location": "Madaniyah",
+        "num_ayah": 13,
+        "translation": "Wanita Yang Diuji"
+    },
+    {
+        "arabic": "الصّفّ",
+        "id": 61,
+        "latin": "Aṣ-Ṣaff",
+        "latin_indo": "As-Saff",
+        "location": "Madaniyah",
+        "num_ayah": 14,
+        "translation": "Barisan"
+    },
+    {
+        "arabic": "الجمعة",
+        "id": 62,
+        "latin": "Al-Jumu‘ah",
+        "latin_indo": "Al-Jumu‘ah",
+        "location": "Madaniyah",
+        "num_ayah": 11,
+        "translation": "Jumat"
+    },
+    {
+        "arabic": "المنٰفقون",
+        "id": 63,
+        "latin": "Al-Munāfiqūn",
+        "latin_indo": "Al-Munafiqun",
+        "location": "Madaniyah",
+        "num_ayah": 11,
+        "translation": "Orang-Orang Munafik"
+    },
+    {
+        "arabic": "التّغابن",
+        "id": 64,
+        "latin": "At-Tagābun",
+        "latin_indo": "At-Tagabun",
+        "location": "Madaniyah",
+        "num_ayah": 18,
+        "translation": "Pengungkapan Kesalahan"
+    },
+    {
+        "arabic": "الطّلاق",
+        "id": 65,
+        "latin": "Aṭ-Ṭalāq",
+        "latin_indo": "At-Talaq",
+        "location": "Madaniyah",
+        "num_ayah": 12,
+        "translation": "Talak"
+    },
+    {
+        "arabic": "التّحريم",
+        "id": 66,
+        "latin": "At-taḥrīm",
+        "latin_indo": "At-taḥrim",
+        "location": "Madaniyah",
+        "num_ayah": 12,
+        "translation": "Pengharaman"
+    },
+    {
+        "arabic": "المُلك",
+        "id": 67,
+        "latin": "Al-Mulk",
+        "latin_indo": "Al-Mulk",
+        "location": "Makkiyah",
+        "num_ayah": 30,
+        "translation": "Kerajaan"
+    },
+    {
+        "arabic": "القلم",
+        "id": 68,
+        "latin": "Al-Qalam",
+        "latin_indo": "Al-Qalam",
+        "location": "Makkiyah",
+        "num_ayah": 52,
+        "translation": "Pena"
+    },
+    {
+        "arabic": "الحاۤقّة",
+        "id": 69,
+        "latin": "Al-Ḥāqqah",
+        "latin_indo": "Al-Ḥaqqah",
+        "location": "Makkiyah",
+        "num_ayah": 52,
+        "translation": "Hari Kiamat Yang Pasti Terjadi"
+    },
+    {
+        "arabic": "المعارج",
+        "id": 70,
+        "latin": "Al-Ma‘ārij",
+        "latin_indo": "Al-Ma‘arij",
+        "location": "Makkiyah",
+        "num_ayah": 44,
+        "translation": "Tempat-Tempat Naik"
+    },
+    {
+        "arabic": "نوح",
+        "id": 71,
+        "latin": "Nūḥ",
+        "latin_indo": "Nuh",
+        "location": "Makkiyah",
+        "num_ayah": 28,
+        "translation": "Nuh"
+    },
+    {
+        "arabic": "الجنّ",
+        "id": 72,
+        "latin": "Al-Jinn",
+        "latin_indo": "Al-Jinn",
+        "location": "Makkiyah",
+        "num_ayah": 28,
+        "translation": "Jin"
+    },
+    {
+        "arabic": "المزّمّل",
+        "id": 73,
+        "latin": "Al-Muzzammil",
+        "latin_indo": "Al-Muzzammil",
+        "location": "Makkiyah",
+        "num_ayah": 20,
+        "translation": "Orang Berkelumun"
+    },
+    {
+        "arabic": "المدّثّر",
+        "id": 74,
+        "latin": "Al-Muddaṡṡir",
+        "latin_indo": "Al-Muddassir",
+        "location": "Makkiyah",
+        "num_ayah": 56,
+        "translation": "Orang Berselimut"
+    },
+    {
+        "arabic": "القيٰمة",
+        "id": 75,
+        "latin": "Al-Qiyāmah",
+        "latin_indo": "Al-Qiyamah",
+        "location": "Makkiyah",
+        "num_ayah": 40,
+        "translation": "Hari Kiamat"
+    },
+    {
+        "arabic": "الانسان",
+        "id": 76,
+        "latin": "Al-Insān",
+        "latin_indo": "Al-Insan",
+        "location": "Madaniyah",
+        "num_ayah": 31,
+        "translation": "Manusia"
+    },
+    {
+        "arabic": "المرسلٰت",
+        "id": 77,
+        "latin": "Al-Mursalāt",
+        "latin_indo": "Al-Mursalat",
+        "location": "Makkiyah",
+        "num_ayah": 50,
+        "translation": "Malaikat Yang Diutus"
+    },
+    {
+        "arabic": "النّبأ",
+        "id": 78,
+        "latin": "An-Naba'",
+        "latin_indo": "An-Naba'",
+        "location": "Makkiyah",
+        "num_ayah": 40,
+        "translation": "Berita"
+    },
+    {
+        "arabic": "النّٰزعٰت",
+        "id": 79,
+        "latin": "An-Nāzi‘āt",
+        "latin_indo": "An-Nazi‘at",
+        "location": "Makkiyah",
+        "num_ayah": 46,
+        "translation": "Yang Mencabut Dengan Keras"
+    },
+    {
+        "arabic": "عبس",
+        "id": 80,
+        "latin": "‘Abasa",
+        "latin_indo": "‘Abasa",
+        "location": "Makkiyah",
+        "num_ayah": 42,
+        "translation": "Berwajah Masam"
+    },
+    {
+        "arabic": "التّكوير",
+        "id": 81,
+        "latin": "At-Takwīr",
+        "latin_indo": "At-Takwir",
+        "location": "Makkiyah",
+        "num_ayah": 29,
+        "translation": "Penggulungan"
+    },
+    {
+        "arabic": "الانفطار",
+        "id": 82,
+        "latin": "Al-Infiṭār",
+        "latin_indo": "Al-Infiṭar",
+        "location": "Makkiyah",
+        "num_ayah": 19,
+        "translation": "Terbelah"
+    },
+    {
+        "arabic": "المطفّفين",
+        "id": 83,
+        "latin": "Al-Muṭaffifīn",
+        "latin_indo": "Al-Muṭaffifin",
+        "location": "Makkiyah",
+        "num_ayah": 36,
+        "translation": "Orang-Orang Yang Curang"
+    },
+    {
+        "arabic": "الانشقاق",
+        "id": 84,
+        "latin": "Al-Insyiqāq",
+        "latin_indo": "Al-Insyiqaq",
+        "location": "Makkiyah",
+        "num_ayah": 25,
+        "translation": "Terbelah"
+    },
+    {
+        "arabic": "البروج",
+        "id": 85,
+        "latin": "Al-Burūj",
+        "latin_indo": "Al-Buruj",
+        "location": "Makkiyah",
+        "num_ayah": 22,
+        "translation": "Gugusan Bintang"
+    },
+    {
+        "arabic": "الطّارق",
+        "id": 86,
+        "latin": "Aṭ-Ṭāriq",
+        "latin_indo": "At-Tariq",
+        "location": "Makkiyah",
+        "num_ayah": 17,
+        "translation": "Yang Datang Pada Malam Hari"
+    },
+    {
+        "arabic": "الاعلى",
+        "id": 87,
+        "latin": "Al-A‘lā",
+        "latin_indo": "Al-A‘la",
+        "location": "Makkiyah",
+        "num_ayah": 19,
+        "translation": "Yang Maha Tinggi"
+    },
+    {
+        "arabic": "الغاشية",
+        "id": 88,
+        "latin": "Al-Gāsyiyah",
+        "latin_indo": "Al-Gasyiyah",
+        "location": "Makkiyah",
+        "num_ayah": 26,
+        "translation": "Hari Kiamat Yang Menghilangkan Kesadaran"
+    },
+    {
+        "arabic": "الفجر",
+        "id": 89,
+        "latin": "Al-Fajr",
+        "latin_indo": "Al-Fajr",
+        "location": "Makkiyah",
+        "num_ayah": 30,
+        "translation": "Fajar"
+    },
+    {
+        "arabic": "البلد",
+        "id": 90,
+        "latin": "Al-Balad",
+        "latin_indo": "Al-Balad",
+        "location": "Makkiyah",
+        "num_ayah": 20,
+        "translation": "Negeri"
+    },
+    {
+        "arabic": "الشّمس",
+        "id": 91,
+        "latin": "Asy-Syams",
+        "latin_indo": "Asy-Syams",
+        "location": "Makkiyah",
+        "num_ayah": 15,
+        "translation": "Matahari"
+    },
+    {
+        "arabic": "الّيل",
+        "id": 92,
+        "latin": "Al-Lail",
+        "latin_indo": "Al-Lail",
+        "location": "Makkiyah",
+        "num_ayah": 21,
+        "translation": "Malam"
+    },
+    {
+        "arabic": "الضّحى",
+        "id": 93,
+        "latin": "Aḍ-Ḍuḥā",
+        "latin_indo": "Ad-Duḥa",
+        "location": "Makkiyah",
+        "num_ayah": 11,
+        "translation": "Duha"
+    },
+    {
+        "arabic": "الشّرح",
+        "id": 94,
+        "latin": "Asy-Syarḥ",
+        "latin_indo": "Asy-Syarḥ",
+        "location": "Makkiyah",
+        "num_ayah": 8,
+        "translation": "Melapangkan"
+    },
+    {
+        "arabic": "التّين",
+        "id": 95,
+        "latin": "At-Tīn",
+        "latin_indo": "At-Tin",
+        "location": "Makkiyah",
+        "num_ayah": 8,
+        "translation": "Buah Tin"
+    },
+    {
+        "arabic": "العلق",
+        "id": 96,
+        "latin": "Al-‘Alaq",
+        "latin_indo": "Al-‘Alaq",
+        "location": "Makkiyah",
+        "num_ayah": 19,
+        "translation": "Segumpal Darah"
+    },
+    {
+        "arabic": "القدر",
+        "id": 97,
+        "latin": "Al-Qadr",
+        "latin_indo": "Al-Qadr",
+        "location": "Makkiyah",
+        "num_ayah": 5,
+        "translation": "Al-Qadar"
+    },
+    {
+        "arabic": "البيّنة",
+        "id": 98,
+        "latin": "Al-Bayyinah",
+        "latin_indo": "Al-Bayyinah",
+        "location": "Madaniyah",
+        "num_ayah": 8,
+        "translation": "Bukti Nyata"
+    },
+    {
+        "arabic": "الزّلزلة",
+        "id": 99,
+        "latin": "Az-Zalzalah",
+        "latin_indo": "Az-Zalzalah",
+        "location": "Madaniyah",
+        "num_ayah": 8,
+        "translation": "Guncangan"
+    },
+    {
+        "arabic": "العٰديٰت",
+        "id": 100,
+        "latin": "Al-‘Ādiyāt",
+        "latin_indo": "Al-‘Adiyat",
+        "location": "Makkiyah",
+        "num_ayah": 11,
+        "translation": "Kuda Perang Yang Berlari Kencang"
+    },
+    {
+        "arabic": "القارعة",
+        "id": 101,
+        "latin": "Al-Qāri‘ah",
+        "latin_indo": "Al-Qari‘ah",
+        "location": "Makkiyah",
+        "num_ayah": 11,
+        "translation": "Al-Qāri‘ah"
+    },
+    {
+        "arabic": "التّكاثر",
+        "id": 102,
+        "latin": "At-Takāṡur",
+        "latin_indo": "At-Takasur",
+        "location": "Makkiyah",
+        "num_ayah": 8,
+        "translation": "Berbangga-Bangga Dalam Memperbanyak Dunia"
+    },
+    {
+        "arabic": "العصر",
+        "id": 103,
+        "latin": "Al-‘Aṣr",
+        "latin_indo": "Al-‘Asr",
+        "location": "Makkiyah",
+        "num_ayah": 3,
+        "translation": "Masa"
+    },
+    {
+        "arabic": "الهمزة",
+        "id": 104,
+        "latin": "Al-Humazah",
+        "latin_indo": "Al-Humazah",
+        "location": "Makkiyah",
+        "num_ayah": 9,
+        "translation": "Pengumpat"
+    },
+    {
+        "arabic": "الفيل",
+        "id": 105,
+        "latin": "Al-Fīl",
+        "latin_indo": "Al-Fil",
+        "location": "Makkiyah",
+        "num_ayah": 5,
+        "translation": "Gajah"
+    },
+    {
+        "arabic": "قريش",
+        "id": 106,
+        "latin": "Quraisy",
+        "latin_indo": "Quraisy",
+        "location": "Makkiyah",
+        "num_ayah": 4,
+        "translation": "Orang Quraisy"
+    },
+    {
+        "arabic": "الماعون",
+        "id": 107,
+        "latin": "Al-Mā‘ūn",
+        "latin_indo": "Al-Ma‘un",
+        "location": "Makkiyah",
+        "num_ayah": 7,
+        "translation": "Bantuan"
+    },
+    {
+        "arabic": "الكوثر",
+        "id": 108,
+        "latin": "Al-Kauṡar",
+        "latin_indo": "Al-Kausar",
+        "location": "Makkiyah",
+        "num_ayah": 3,
+        "translation": "Nikmat Yang Banyak"
+    },
+    {
+        "arabic": "الكٰفرون",
+        "id": 109,
+        "latin": "Al-Kāfirūn",
+        "latin_indo": "Al-Kafirun",
+        "location": "Makkiyah",
+        "num_ayah": 6,
+        "translation": "Orang-Orang kafir"
+    },
+    {
+        "arabic": "النّصر",
+        "id": 110,
+        "latin": "An-Naṣr",
+        "latin_indo": "An-Naṣr",
+        "location": "Madaniyah",
+        "num_ayah": 3,
+        "translation": "Pertolongan"
+    },
+    {
+        "arabic": "اللّهب",
+        "id": 111,
+        "latin": "Al-Lahab",
+        "latin_indo": "Al-Lahab",
+        "location": "Makkiyah",
+        "num_ayah": 5,
+        "translation": "Gejolak Api"
+    },
+    {
+        "arabic": "الاخلاص",
+        "id": 112,
+        "latin": "Al-Ikhlāṣ",
+        "latin_indo": "Al-Ikhlaṣ",
+        "location": "Makkiyah",
+        "num_ayah": 4,
+        "translation": "Ikhlas"
+    },
+    {
+        "arabic": "الفلق",
+        "id": 113,
+        "latin": "Al-Falaq",
+        "latin_indo": "Al-Falaq",
+        "location": "Madaniyah",
+        "num_ayah": 5,
+        "translation": "Fajar"
+    },
+    {
+        "arabic": "النّاس",
+        "id": 114,
+        "latin": "An-Nās",
+        "latin_indo": "An-Nas",
+        "location": "Madaniyah",
+        "num_ayah": 6,
+        "translation": "Manusia"
+    }
+]
