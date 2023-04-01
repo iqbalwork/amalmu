@@ -1,6 +1,5 @@
 package id.amalmu.app.presentation.home
 
-import android.os.Build.VERSION_CODES.R
 import android.os.Bundle
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
@@ -12,6 +11,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import id.amalmu.app.R
 import id.amalmu.app.ui.component.ImageView
 import id.amalmu.app.ui.theme.AmalmuAmaliyahMuridTheme
 
