@@ -16,10 +16,10 @@
         android:theme="@style/Theme.AmalmuAmaliyahMurid"
         tools:targetApi="31">
         <activity
-            android:name=".HomeActivity"
+            android:name=".presentation.home.HomeActivity"
             android:exported="false" />
         <activity
-            android:name=".presentation.SplashActivity"
+            android:name=".presentation.splash.SplashActivity"
             android:exported="true"
             android:screenOrientation="nosensor"
             android:theme="@style/Theme.AmalmuAmaliyahMurid">
