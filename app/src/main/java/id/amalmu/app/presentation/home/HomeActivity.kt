@@ -1,13 +1,9 @@
 package id.amalmu.app.presentation.home
 
-import android.graphics.Color
 import android.os.Build.VERSION_CODES.R
 import android.os.Bundle
-import android.view.Surface
 import androidx.activity.compose.setContent
 import androidx.appcompat.app.AppCompatActivity
-import androidx.compose.foundation.background
-import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.padding
@@ -16,9 +12,6 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import id.amalmu.app.R
-import id.amalmu.app.databinding.ActivityHomeBinding
-import id.amalmu.app.domain.abstraction.BaseActivity
 import id.amalmu.app.ui.component.ImageView
 import id.amalmu.app.ui.theme.AmalmuAmaliyahMuridTheme
 
