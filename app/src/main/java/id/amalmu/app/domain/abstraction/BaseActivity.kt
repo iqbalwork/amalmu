@@ -1,4 +1,4 @@
-package id.amalmu.app.domain
+package id.amalmu.app.domain.abstraction
 
 import android.os.Bundle
 import android.view.LayoutInflater

@@ -1,4 +1,4 @@
-package id.amalmu.app.domain
+package id.amalmu.app.domain.abstraction
 
 import androidx.lifecycle.ViewModel
 
